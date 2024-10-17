@@ -1,0 +1,15 @@
+.input_home {
+    width: 50rem;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #000;
+  }
+
+.home_btn{
+  background-color: blue;
+  height: 46px;
+  width: 6rem;
+  color: aliceblue;
+}

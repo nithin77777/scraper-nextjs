@@ -1,0 +1,18 @@
+/*!************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[14].oneOf[7].use[3]!./src/app/home/home.module.css ***!
+  \************************************************************************************************************************************************************************************************************************************************************************/
+.home_input_home__4X7cz {
+    width: 50rem;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #000;
+  }
+
+.home_home_btn__sO0QX{
+  background-color: blue;
+  height: 46px;
+  width: 6rem;
+  color: aliceblue;
+}
